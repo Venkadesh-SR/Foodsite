@@ -1,0 +1,54 @@
+.thead{
+    position: absolute;
+    top: 15%;
+    }
+    
+    .container1t {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      /* Set the container's height to the full viewport height */
+        }
+    .theads{
+      font-size: xx-large;
+      color: #d3912a;
+    }
+     .tlogo{
+       position: absolute;
+       top: 30%;
+     } 
+    .contentt{
+      position: absolute;
+      top: 50%;
+      width: 100%;
+    }
+    .contentt h2{
+      text-align: center;
+      font-size: xx-large;
+      
+    }
+    .contentt p{
+      text-align: center;
+      margin-bottom: 2cm;
+    }
+       .contentt button{
+    
+    width: 6cm;
+    height: 1.3cm;
+    border-radius: 9%;
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    margin-bottom: .5cm;
+    justify-content: center;
+    margin-left: 16.5cm;
+    
+       }
+       .but1t{
+         color: #f2f2f2;
+         background-color: #d3912a;
+       }
+       .but2t{
+         color: #d3912a;
+         background-color: #f2f2f2;
+       }

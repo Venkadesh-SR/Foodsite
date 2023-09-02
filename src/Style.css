@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  h1 {
+    margin: 0;
+  }
+  .introback {
+      background-color: #d3912a; /* Red background color for Page 1 */
+      min-height: 100vh;
+    }
+    
+    .secondintroback {
+      background-color: #191919; /* Green background color for Page 2 */
+      min-height: 100vh;
+      color: #f2f2f2;
+    }
+    .thirdintroback{
+      background-color: #191919;
+      min-height: 100vh;
+      color: #f2f2f2;
+    }
+    .signin{
+      
+        background-color:#191919;
+        color:white;
+        min-height: 100vh;
+    
+    }
+    .signup{
+      
+      background-color:#191919;
+      color:white;
+      min-height: 100vh;
+  
+  }
+
+  .homemain{
+    background-color:#191919;
+    font-weight: bold;
+    color: #f3f3f3;
+    min-height: 100vh;
+    margin-bottom: 3cm;
+  }
+  .order{
+    background-color:#191919;
+      color:#f2f2f2;
+  }

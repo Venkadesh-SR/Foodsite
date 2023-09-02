@@ -1,0 +1,54 @@
+.schead{
+position: absolute;
+top: 15%;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  /* Set the container's height to the full viewport height */
+    }
+.scheads{
+  font-size: xx-large;
+  color: #d3912a;
+}
+ .sclogo{
+   position: absolute;
+   top: 30%;
+ } 
+.contentsc{
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}
+.contentsc h2{
+  text-align: center;
+  font-size: xx-large;
+  
+}
+.contentsc p{
+  text-align: center;
+  margin-bottom: 2cm;
+}
+   .contentsc button{
+
+width: 6cm;
+height: 1.3cm;
+border-radius: 9%;
+text-align: center;
+font-size: large;
+font-weight: bolder;
+margin-bottom: .5cm;
+justify-content: center;
+margin-left: 16.5cm;
+
+   }
+   .but1sc{
+     color: #f2f2f2;
+     background-color: #d3912a;
+   }
+   .but2sc{
+     color: #d3912a;
+     background-color: #f2f2f2;
+   }

@@ -1,0 +1,55 @@
+.totalimno{
+    text-align: center;
+    min-height: 100%;
+    min-width: 100%;
+    
+    
+    width: max-content;
+    margin-top: .5cm;
+    margin-bottom: .3cm;
+    color: #dedede;
+    
+    
+
+    
+    
+    
+}
+.subimno{
+   
+    
+    padding-top: 1.5cm;
+    padding-bottom: .8cm;
+  margin-left: 18cm;
+ 
+  width: 35%;
+;
+ left: 0%;
+ border: 5px solid #d3912a;
+ border-radius: 50px;
+ 
+    
+}
+.foodlogono{
+    position: absolute;
+    left: 0%;
+    margin-left: 5mm;
+    margin-top: 3.5cm;
+    width: 10cm;
+    height: 10cm;
+    margin-left: 2cm;
+}
+.ulno{
+    
+    text-align: left;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.headno{
+    font-weight: bolder;
+    text-align: center;
+    color: #d3912a;
+    font-size: xx-large;
+    margin-bottom: 2cm;
+    margin-top: 1cm;
+}

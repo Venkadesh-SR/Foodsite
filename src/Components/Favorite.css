@@ -1,0 +1,63 @@
+.favtotal{
+
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(2,8cm);
+    margin-top: 10mm;
+    transition: transform 0.3s ease-in-out;
+    
+}
+
+.imgfav{
+    min-height: 3cm;
+    min-width: 3cm;
+    max-width: 3cm;
+    max-height: 3cm;
+    border-radius: 50%;
+    margin-top: 1.5cm;
+  border-top: 20px solid #be8a35;
+  padding: 5mm;
+  
+
+}
+.boxfav{
+    max-width: 7cm;
+    min-height: 10cm;
+    background-color: #595858;
+    display: flex;
+    justify-content: center;
+    margin-right: 5mm;
+  margin-left: 5mm;
+  margin-top: 8mm;
+  margin-bottom: 8mm;
+  border-radius: 0%;
+  font-weight: bold;
+  color: #f3f3f3;
+    
+    
+}
+.fnfav{
+    
+    text-align: center;
+    position: absolute;
+    margin-top: 6.3cm;
+}
+.quantitfav{
+    text-align: center;
+    position: absolute;
+    margin-top: 7.5cm;
+}
+
+.rupfav{
+    
+    text-align: center;
+    position: absolute;
+    margin-top: 8.8cm;
+}
+.headfav{
+    text-align: center;
+    margin-top: 10mm;
+    font-weight: 900;
+    font-size: xx-large;
+    color: #be8a35;
+}

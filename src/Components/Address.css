@@ -1,0 +1,81 @@
+.totalimad{
+    text-align: center;
+    min-height: 100%;
+    min-width: 100%;
+    
+   
+    width: max-content;
+    margin-top: .5cm;
+    margin-bottom: .3cm;
+    color: #dedede;
+    
+    
+
+    
+    
+    
+}
+.subimad{
+    margin-top: 1.7cm;
+    
+    padding-top: 1.5cm;
+    padding-bottom: .8cm;
+  margin-left: 17cm;
+ 
+  width: 35%;
+;
+ left: 0%;
+ border: 5px solid #d3912a;
+ border-radius: 50px;
+ 
+    
+}
+.headad{
+    display: flex;
+    margin-left: 2cm;
+    margin-bottom: .7cm;
+    font-size: x-large;
+}
+.inputad{
+    display: flex;
+   margin-left: 4cm;
+    margin-bottom: 1cm;
+    font-size: x-large;
+    background-color: #dedede;
+}
+.inputiad{
+    
+    font-size: large;
+   margin-left: 3.4cm;
+    margin-bottom: 1cm;
+    
+}
+.foodlogoad{
+    position: absolute;
+    left: 4%;
+    margin-left: 5mm;
+    margin-top: 2.8cm;
+}
+.butad{
+    position: absolute;
+   margin-left: 33cm;
+   top: 0%;
+   margin-top: 10.7cm;
+   padding: .3cm 1cm .3cm 1cm;
+   font-size: x-large;
+   font-weight: bolder;
+   background-color: #d3912a;
+   border: 1px solid #d3912a;
+}
+.butad:hover{
+    background-color: #935d06;
+    
+}
+.headaddress{
+    font-weight: bolder;
+    text-align: center;
+    color: #d3912a;
+    font-size: xx-large;
+    margin-bottom: 1cm;
+    margin-top: 1cm;
+}

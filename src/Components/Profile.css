@@ -1,0 +1,19 @@
+.headp{
+    justify-content: center;
+    text-align: center;
+    margin-top: 8mm;
+    margin-bottom: 10mm;
+  
+}
+.ulp{
+    list-style-type: none;
+    padding: 0%;
+    margin-left: 3cm;
+    margin-top: 3cm;
+    font-size: xx-large;
+
+}
+.ulp li{
+    margin-bottom: 2cm;
+    font-weight: bold;
+}

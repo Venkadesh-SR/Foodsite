@@ -1,0 +1,129 @@
+.imgho{
+    min-height: 4cm;
+    min-width: 4cm;
+    max-width: 4cm;
+    max-height: 4cm;
+    border-radius: 50%;
+    margin-top: 2cm;
+  border-top: 20px solid #be8a35;
+  padding: 5mm;
+  
+
+}
+.boxho{
+    margin-top: 3cm;
+    min-width: 9cm;
+    min-height: 18cm;
+    background-color: #595858;
+    display: flex;
+    justify-content: center;
+    margin-right: 5mm;
+  margin-left: 5mm;
+  margin-top: 8mm;
+  margin-bottom: 8mm;
+  border-radius: 8%;
+  font-weight: bold;
+  color: #f3f3f3;
+  border: 3px solid #d3912a ;
+  background-color: black;
+    
+    
+}
+.ratingo{
+    text-align: center;
+    position: absolute;
+    margin-top: 8cm;
+}
+.fnho{
+    
+    text-align: center;
+    position: absolute;
+    margin-top: 9cm;
+}
+.orquo{
+    
+    text-align: center;
+    position: absolute;
+    margin-top: 10.6cm;
+    max-width: 8cm;
+   
+   
+}
+
+.fnbo{
+    text-align: center;
+    position: absolute;
+    padding: 3mm;
+    background-color: #d3912a;
+    margin-top: 14.8cm;
+    border: 0ch;
+    left: 50.5%;
+    font-size: large;
+    font-weight: 600;
+}
+
+.totalordero{
+    display: flex;
+    justify-content: center;
+}
+.orheado{
+    text-align: center;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    font-weight: bolder;
+}
+.orbutido{
+    background-color: #d3912a;
+    padding-top: 3mm;
+    padding-bottom: 3mm;
+    min-height: 5mm;
+    max-height: 5mm;
+    min-width: 3cm;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+    color: black;
+    text-align: center;
+    position: absolute;
+    margin-top: 12.5cm;
+}
+.decor{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+    background-color: #d3912a;
+    border: none;
+    
+}
+.incor{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+    background-color: #d3912a;
+    border: none;
+}
+.amoor{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+    
+
+}
+.prior{
+    text-align: center;
+    position: absolute;
+    padding: 3mm;
+    background-color: #d3912a;
+    margin-top: 14.8cm;
+    left: 41%;
+    font-size: large;
+    min-width: 2cm;
+    background-color: #f3f3f3;
+    color: black;
+    font-weight: 800;
+}
+.spor{
+    color:#d3912a;
+}

@@ -1,0 +1,84 @@
+.ulsil{
+    
+   mask-repeat: repeat-x;
+}
+
+.signim{
+    width: 1.5cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+.totalsign{
+    margin-left: 1cm;
+}
+.subsignin{
+    align-items: center;
+    text-align: center;
+}
+.headsign{
+    text-align: left;
+    margin-left: 15.5cm;
+   margin-bottom: .6%;
+
+}
+.insi{
+    width: 7cm;
+    height: 1cm;
+    border-radius: 5%;
+    background-color: #dedede;
+    border: 0ch;
+    
+}
+
+.butsi{
+    width: 7cm;
+    height: 1.4cm;
+    border-radius: 5%;
+    font-size: large;
+    font-weight: bolder;
+    background-color: #dbb16f;
+    color: #dedede;
+}
+.underlinesi{
+    margin-top: 10mm;
+    margin-bottom: 10mm;
+}
+.hrl{
+   width: 10cm;
+    left: 0%;
+    text-align: left;
+  
+}
+.unhsi{
+    position: absolute;
+    top: 14.75cm;
+    left: 18.7cm;
+    background-color:#191919;
+    font-size: larger;
+    font-weight: 800;
+    
+    
+}
+.butlogsi{
+   max-width: 15mm;
+  max-height: 5mm;
+   padding-top: 1.2mm;
+   color:white;
+   background-color: #707070;;
+}
+
+.spsi{
+    color: #dbb16f;
+}
+.butsib{
+    width: 7cm;
+    height: 1.4cm;
+    border-radius: 5%;
+    font-size: large;
+    font-weight: bolder;
+    background-color: #707070;
+    color:white;
+}
+.dsi{
+    margin-left: 2mm;
+}
